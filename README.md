@@ -26,4 +26,3 @@ There is very weak evidence of correlation between latitude and wind speed. The 
 Conditions used: Wind Speed < 5km/h, 0% Cloudiness, Max Temperature >22 Celsius
 
 Found hotels close to these vacation cities using GeoApify
-![Map of Hotels](./WeatherPy/output_data/Vac.png) 
